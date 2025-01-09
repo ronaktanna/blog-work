@@ -27,12 +27,28 @@ Personal blog posts
 
 1. Building Scalable Documentation Systems: A Guide to Docs-as-Code
    - A technical guide on implementing documentation as code
-   - [DocsAsCode_Guide.md](markdown/DocsAsCode_Guide.md)
+   - [TechnicalGuide - DocsAsCode_Guide.md](<markdown/TechnicalGuide - DocsAsCode_Guide.md>)
 
 2. Enterprise Authentication API Documentation
-   - Comprehensive API documentation with examples
-   - [Enterprise_Auth_API.md](markdown/Enterprise_Auth_API.md)
+   - Comprehensive API documentation with examples for a fictional enterprise authentication API
+   - [APIDocumentation - Enterprise_Auth_API.md](<markdown/APIDocumentation - Enterprise_Auth_API.md>)
 
 3. Data Analytics Platform User Guide
-   - End-user documentation for a data analytics platform
-   - [Analytics_Platform_Guide.md](markdown/Analytics_Platform_Guide.md)
+   - User facing documentation for a fictional data analytics platform
+   - [UserGuide - Analytics_Platform_Guide.md](<markdown/UserGuide - Analytics_Platform_Guide.md>)
+
+4. FAQ on system architectures
+   - An FAQ on system architectures for educational material
+   - [FAQ - SystemArchitectures.md](<markdown/FAQ - SystemArchitectures.md>)
+
+5. ML in Healthcare
+   - Scientific writing on ML in healthcare
+   - [ScientificWriting - ML_In_Healthcare.md](<markdown/ScientificWriting - ML_In_Healthcare.md>)
+
+6. Release Notes sample
+   - Release notes - fictional CMS system
+   - [ReleaseNotes - CMS_release_notes.md](<markdown/ReleaseNotes - CMS_release_notes.md>)
+
+7. Knowledge Base 
+   - Knowledge base on a fictional cloud service
+   - [KnowledgeBase - CloudScale.md](<markdown/KnowledgeBase - CloudScale.md>)
