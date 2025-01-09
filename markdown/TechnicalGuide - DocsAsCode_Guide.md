@@ -1,6 +1,5 @@
 # Building Scalable Documentation Systems: A Guide to Docs-as-Code
 *Author: Ronak Tanna*  
-*Last Updated: December 2024*
 
 ## Executive Summary
 This technical guide outlines best practices and implementation strategies for scaling documentation systems using the docs-as-code approach. Drawing from enterprise implementation experience, it provides practical insights for technical teams adopting modern documentation practices.

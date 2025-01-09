@@ -1,6 +1,5 @@
 # Enterprise Authentication API Documentation
-*Author: Ronak Tanna*  
-*Last Updated: December 2024*
+*Author: Ronak Tanna*
 
 ## Table of Contents
 - [Overview](#overview)

@@ -1,4 +1,5 @@
 # CloudScale Documentation
+*Author: Ronak Tanna*<br>
 
 ## Table of Contents
 - [Product Overview](#product-overview)

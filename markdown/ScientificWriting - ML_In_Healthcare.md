@@ -1,6 +1,5 @@
 # Technical Report: Machine Learning Applications in Healthcare
 *Author: Ronak Tanna*<br>
-*December 2024*
 
 ## Table of Contents
 1. [Executive Summary](#executive-summary)

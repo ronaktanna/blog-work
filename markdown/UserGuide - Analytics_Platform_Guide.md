@@ -1,6 +1,5 @@
 # Data Analytics Platform User Guide
 *Author: Ronak Tanna*  
-*Last Updated: December 2024*
 
 ## Table of Contents
 - [Introduction](#introduction)

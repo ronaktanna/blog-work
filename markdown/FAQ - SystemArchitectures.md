@@ -1,7 +1,6 @@
 # System Architecture FAQ
 *A Practical Guide to Common Architecture Questions*<br>
 *Author: Ronak Tanna*<br>
-*Last updated: December 2024*
 
 ## Table of Contents
 1. [Scalability](#scalability)

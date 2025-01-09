@@ -1,4 +1,5 @@
 # ContentHub API Platform - Release Notes
+*Author: Ronak Tanna*<br>
 
 ## Version 3.2.0 (December 2024)
 *Release Date: December 15, 2024*
